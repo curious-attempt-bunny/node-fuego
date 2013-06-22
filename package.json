@@ -1,13 +1,13 @@
 {
   "name": "node-fuego",
   "version": "0.0.1",
-  "description": "Wrapper for Fuego - the Go engine",
+  "description": "A GTP wrapper for Fuego - the Go engine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "install.js"
   },
-  "repository": "",
+  "repository": "git@github.com:curious-attempt-bunny/node-fuego.git",
   "keywords": [
     "go",
     "engine",
