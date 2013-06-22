@@ -1,12 +1,12 @@
 {
   "name": "fuego",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A GTP wrapper for Fuego - the Go engine",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "cd fuego-r1675 && ./configure",
-    "install": "cd fuego-r1675 && make"
+    "install": "cd fuego-r1675 && make",
+    "test": "echo 'version' | fuego-r1675/fuegomain/fuego"
   },
   "repository": "git@github.com:curious-attempt-bunny/node-fuego.git",
   "keywords": [
