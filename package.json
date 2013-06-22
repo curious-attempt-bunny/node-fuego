@@ -1,0 +1,20 @@
+{
+  "name": "node-fuego",
+  "version": "0.0.1",
+  "description": "Wrapper for Fuego - the Go engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "install.js"
+  },
+  "repository": "",
+  "keywords": [
+    "go",
+    "engine",
+    "gtp",
+    "feugo",
+    "sgf"
+  ],
+  "author": "Merlyn Albery-Speyer",
+  "license": "LGPL"
+}

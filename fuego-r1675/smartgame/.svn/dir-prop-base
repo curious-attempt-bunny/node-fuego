@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+.deps
+Makefile
+Makefile.in
+libfuego_smartgame.a
+
+
+END

@@ -1,0 +1,97 @@
+10
+
+dir
+1675
+svn://svn.code.sf.net/p/fuego/code/trunk/regression/sgf
+svn://svn.code.sf.net/p/fuego/code
+
+
+
+2013-05-02T23:02:45.459464Z
+1675
+mmueller65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2e953b5c-c64d-0410-be54-f773e93e544c
+
+repetition
+dir
+
+approach_move
+dir
+
+static-winner
+dir
+
+book_test
+dir
+
+simpleplayers
+dir
+
+safetytest
+dir
+
+ladder
+dir
+
+seki
+dir
+
+uct
+dir
+
+safetytest-whole-board
+dir
+
+games
+dir
+
+playout
+dir
+
+final_moves
+dir
+
+two-safe-groups
+dir
+
+semeai
+dir
+
+eyes
+dir
+
+semeai-exact
+dir
+
+pass
+dir
+
+evaluation
+dir
+
+lifeanddeath
+dir
+
+ko
+dir
+
+gnugo-games
+dir
+
+rave-problems
+dir
+

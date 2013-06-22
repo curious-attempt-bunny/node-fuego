@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 53
+.deps
+Makefile
+Makefile.in
+libfuego_simpleplayers.a
+
+
+END

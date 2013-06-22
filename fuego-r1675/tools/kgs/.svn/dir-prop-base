@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 104
+config-9-2c.gtp
+config-19-2c.gtp
+config-19-8c.gtp
+config-tournament-9-8c.gtp
+games
+games-19
+kgsGtp.jar
+
+
+END

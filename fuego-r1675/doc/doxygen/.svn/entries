@@ -1,0 +1,89 @@
+10
+
+dir
+1675
+svn://svn.code.sf.net/p/fuego/code/trunk/doc/doxygen
+svn://svn.code.sf.net/p/fuego/code
+
+
+
+2011-03-13T10:48:00.265540Z
+1460
+enz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+2e953b5c-c64d-0410-be54-f773e93e544c
+
+pages
+dir
+
+gtpengine
+dir
+
+smartgame
+dir
+
+gouct
+dir
+
+fuegotest
+dir
+
+go
+dir
+
+simpleplayers
+dir
+
+fuegomain
+dir
+
+general
+dir
+
+Makefile
+file
+
+
+
+
+2013-06-22T19:27:41.000000Z
+7590c59d0c52647bc381fb2511e4ac9a
+2009-03-04T20:30:39.221342Z
+800
+enz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+980
+
