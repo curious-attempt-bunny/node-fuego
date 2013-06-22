@@ -1,12 +1,13 @@
 {
   "name": "fuego",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A GTP wrapper for Fuego - the Go engine",
   "main": "index.js",
   "scripts": {
     "preinstall": "cd fuego-r1675 && ./configure",
     "install": "cd fuego-r1675 && make",
-    "postinstall": "echo 'version' | fuego-r1675/fuegomain/fuego"
+    "postinstall": "echo 'version' | fuego-r1675/fuegomain/fuego",
+    "test": "tap test/*.js"
   },
   "repository": "git@github.com:curious-attempt-bunny/node-fuego.git",
   "keywords": [
@@ -17,5 +18,9 @@
     "sgf"
   ],
   "author": "Merlyn Albery-Speyer",
-  "license": "LGPL"
+  "license": "LGPL",
+  "devDependencies": {
+    "tap": "~0.4.3",
+    "tape": "~1.0.2"
+  }
 }
