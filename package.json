@@ -1,6 +1,6 @@
 {
   "name": "fuego",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A GTP wrapper for Fuego - the Go engine",
   "main": "index.js",
   "scripts": {
