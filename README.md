@@ -8,7 +8,7 @@ simple wrapper for the GTP.
 To get setup:
 
     var fuego = require('fuego');
-    var gtp = fuego();
+    var gtp = fuego(); // or fuego({debug: true}) to log stdout
 
 To execute a command:
 
