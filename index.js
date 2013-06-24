@@ -14,7 +14,12 @@ module.exports = function(options) {
     if (callback && response) {
       callback(null, response[1].trim());
     } else {
-      console.error("Unexpected stdout: "+data);
+      var error = /\? ((?:.|\n)*)/g.exec(data);
+      if (callback && error) {
+        callback(error, null);
+      } else {
+        console.error("Unexpected stdout: "+data);
+      }
     }
   });
 
