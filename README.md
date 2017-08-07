@@ -28,4 +28,4 @@ Fuego requires both developer tools and boost in order to compile. On OSX you ca
 
 == Installation
 
-    $ npm install feugo
+    $ npm install fuego
